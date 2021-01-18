@@ -12,8 +12,10 @@ public class test {
 		System.out.println("ffffff");
 		System.out.println("ariel");
 		System.out.println(2+9);
+		System.out.println(1+4);
+		System.out.println(2+9);
+		System.out.println(2+9);
 		System.out.println(1+9);
-		
 		System.out.println(2+9);
 
 	}
