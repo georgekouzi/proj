@@ -7,9 +7,9 @@ public class test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("ffffff");
-		System.out.println("dolev");
+		System.out.println("george koozi");
 		System.out.println("hameleh");
-		System.out.println("shel");
+		System.out.println("ffffff");
 		System.out.println("ariel");
 	}
 }
