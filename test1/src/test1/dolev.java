@@ -4,10 +4,11 @@ package test1;
 public class dolev {
 
 //dolev i dont know how to do q 2b	
+	//ok now i do it
 	
-	//שאלה 1 סעיף א
-	
-	
+	public static String TheCheap(Node[][] mat) {
+		System.out.println("dolev hameleh");
+	}
 	public static String TheCheapestPath(Node[][] mat) {//o(n+m)*num_of_cheapest_path
 //		cleanValue();
 		int i=mat.length-1;
