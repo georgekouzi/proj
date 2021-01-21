@@ -3,8 +3,7 @@ package test1;
 
 public class dolev {
 
-	//אני לא מצליח את הסעיף השני בשאלה אחת
-	
+//dolev i dont know how to do q 2b	
 	
 	//שאלה 1 סעיף א
 	
